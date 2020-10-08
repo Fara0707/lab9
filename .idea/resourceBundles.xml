@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/lab1/MyBundle_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/lab1/MyBundle_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/lab1/MyBundlea_ua.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundlea_ua.properties" />
+      <base-name>MyBundle</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundlea_ua.properties" />
+      <base-name>MyBundle</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundlea_ua.properties" />
+      <base-name>MyBundle</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle_ru.properties" />
+      <file value="file://$PROJECT_DIR$/src/lab1/MyBundle_ua.properties" />
+      <base-name>MyBundle</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
